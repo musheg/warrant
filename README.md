@@ -47,7 +47,7 @@ Fixed bugs compared with capless/warrant repo, please check latest commits.
 
 ## Install
 
-`pip install warrant`
+`pip install git+https://github.com/musheg/warrant.git`
 
 
 ## Environment Variables
