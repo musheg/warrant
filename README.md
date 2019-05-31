@@ -4,6 +4,8 @@
 
 Makes working with AWS Cognito easier for Python developers.
 
+Fixed bugs compared with capless/warrant repo, please check latest commits.
+
 [![Build Status](https://travis-ci.org/capless/warrant.svg?branch=master)](https://travis-ci.org/capless/warrant)
 
 ## Getting Started
